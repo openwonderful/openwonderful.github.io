@@ -48,3 +48,11 @@ ul.links a { color: var(--accent); text-decoration: none; font-weight: 500; }
 ul.links a:hover { text-decoration: underline; }
 ul.links span { color: var(--muted); font-size: 0.95rem; }
 footer { margin-top: 56px; color: var(--muted); font-size: 0.85rem; }
+.film video {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background: #000;
+  border-radius: 8px;
+}
+.film .caption { margin: 8px 0 0; color: var(--muted); font-size: 0.9rem; }

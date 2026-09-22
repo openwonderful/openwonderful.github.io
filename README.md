@@ -2,8 +2,15 @@
 
 Plain static site for https://openwonderful.github.io — no build step, no framework.
 
+## Body to Body, from 2:24 to the end
+
+[![Body to Body, 2:24 to the end](poster.jpg)](https://openwonderful.github.io/clip.mp4)
+
+Click the frame to play the clip with sound. The same clip plays inline on the site.
+
 - `index.html` — the page. Add links in the `<ul class="links">` lists.
 - `style.css` — styling, light/dark aware.
+- `clip.mp4`, `poster.jpg` — the film clip (2:24 to the end, 1080p) and its poster frame.
 - `.nojekyll` — tells GitHub Pages to serve the files as-is.
 
 ## Publish
