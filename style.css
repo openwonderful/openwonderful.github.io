@@ -55,3 +55,4 @@ footer { margin-top: 56px; color: var(--muted); font-size: 0.85rem; }
   background: #000;
   border-radius: 8px;
 }
+.film .caption { margin: 0 0 8px; color: var(--muted); }
